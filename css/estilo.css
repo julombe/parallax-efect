@@ -28,11 +28,24 @@
         padding: 20px;
     }
 
+    nav li {
+        list-style: none;
+        display: inline-block;
+        padding: 20px 80px;
+        
+    }
     nav li a {
-        text-decoration: none;
-        list-style-type: none;
+        list-style: none;
         text-transform: uppercase;
-        margin: 0 auto;
+        text-decoration: none;
+        display: block;
+        color: black;
+        padding: 10px;
+        
+    }
+
+    nav li a:hover {
+        background-color: #a9b1ad;
     }
     .conteudo {
         color: #777;
