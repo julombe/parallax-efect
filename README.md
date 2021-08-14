@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/jlzh3neixu/barbearia_tRu7SCLIQ.png">
+    <img src="https://ik.imagekit.io/p2lkcbhcvoe/2021-08-14_20-13-28_H_wyQam3Lse.mp4?updatedAt=1628967967103">
 </h1>
 
 ---
