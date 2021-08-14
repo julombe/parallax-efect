@@ -20,6 +20,7 @@ li {
 a {
   text-transform: uppercase;
   text-decoration: none;
+  color: white;
 }
 
 .header {
@@ -28,7 +29,8 @@ a {
   align-items: center;
 
   padding: 10px;
-  background: #f2f2f2;
+  /*background: #f2f2f2;*/
+  background: rgb(75, 75, 151);
 
   /*border: 1px solid #ccc;
   background: f2f2f2;
@@ -120,7 +122,9 @@ p {
 .rodape p {
   text-align: center;
   padding: 40px 0;
-  background: #e0ebeb;
+  /*background: #e0ebeb;*/
+  background: rgb(75, 75, 151);
+  color: white;
   margin-top: 1.25rem;
 }
 
