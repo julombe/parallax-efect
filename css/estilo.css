@@ -15,21 +15,25 @@ html {
   height: 100%;
 }
 
-header {
+.header {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 
-  border: 1px solid #ccc;
-  background: f2f2f2;
   padding: 10px;
+
+  /*border: 1px solid #ccc;
+  background: f2f2f2;
+  padding: 10px;*/
 }
 
-nav {
+.menu {
   border: 1px solid #ccc;
   background: #e0ebeb;
   padding: 20px;
 }
 
-nav li {
+/*nav li {
   list-style: none;
   display: inline-block;
   padding: 20px 80px;
@@ -45,7 +49,7 @@ nav li a {
 
 nav li a:hover {
   background-color: #a9b1ad;
-}
+}*/
 .conteudo {
   color: #777;
   background-color: white;
